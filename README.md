@@ -1,0 +1,2 @@
+# mortiscope
+MeteorJS discussion app
